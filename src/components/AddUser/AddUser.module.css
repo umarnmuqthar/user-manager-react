@@ -1,0 +1,27 @@
+.card {
+  margin-top: 2rem;
+}
+.user-input {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  width: 30rem;
+}
+
+.user-input__div {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-input__div label {
+  margin-top: 0.5rem;
+}
+.user-input__div input {
+  height: 1.5rem;
+  margin-top: 0.2rem;
+  padding: 5px;
+}
+
+.button {
+  margin-top: 1rem;
+}

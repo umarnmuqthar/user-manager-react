@@ -1,0 +1,11 @@
+.button {
+  background-image: linear-gradient(to left, #67b26f, #4ca2cd);
+  padding: 0.5rem 1rem;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  /* border-radius: 10px; */
+}
+.button:hover {
+  background-image: linear-gradient(to right, #67b26f, #4ca2cd);
+}
